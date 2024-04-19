@@ -1,18 +1,4 @@
 ### Olá! Eu sou o Fabio Marinho 👋🏽
-
-Com 23 anos e uma paixão ardente por tecnologia, iniciei minha jornada no
-desenvolvimento web em 2021. Desde então, venho aprimorando minhas
-habilidades em HTML, CSS, JavaScript e Node.js, construindo uma base sólida na
-arquitetura MVC e explorando as possibilidades do C++ e bancos de dados
-MySQL. Embora ainda esteja nos estágios iniciais, com conhecimentos básicos,
-estou rapidamente avançando no meu aprendizado.
-Estou ansioso para trazer minha energia criativa e conhecimento técnico para
-projetos inovadores, e estou pronto para enfrentar novos desafios que me
-permitam crescer ainda mais como desenvolvedor web. Vamos construir o futuro
-da web juntos! 🚀
-
-
-
 ![Fabio Marinho GitHub stats](https://github-readme-stats.vercel.app/api?username=fabio-marinho22&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabio-marinho22&layout=pie)](https://github.com/anuraghazra/github-readme-stats) 
@@ -20,7 +6,7 @@ da web juntos! 🚀
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-marinho-09a2692ab/)
 [![Linkedin](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marinho_fabio_/)
 
-## Tecnologias que eu estou aprendendo💻
+## Tecnologias que eu uso 💻
 
 ### Front-End
 
@@ -33,10 +19,13 @@ da web juntos! 🚀
 ### Back-End
 <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+
 <div>
 <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
 <div>
+
 <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <div>
 
